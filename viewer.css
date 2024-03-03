@@ -1,0 +1,53 @@
+body, html {
+  margin: 0;
+  background-color:lightskyblue;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position:relative;
+}
+.webgl {
+  border: 1px ;
+  margin: 100px;
+  border: gray;
+  border-style:ridge;
+}
+
+.button1 {
+  background-color: goldenrod;
+  color: darkslategray;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  position:absolute;
+  margin-right: 0.5%;
+  margin-left: 0.5%;
+  margin-bottom: 8%;
+  left: 40%;
+  bottom: 0;
+  width: 6%;
+  height: 6%;
+  font-size: medium;
+  font-family:'Roboto';
+
+}
+.button2 {
+  background-color: goldenrod;
+  color: darkslategray;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  position:absolute;
+  margin-right: 0.5%;
+  margin-left: 0;
+  margin-bottom: 8%;
+  right: 45%;
+  bottom: 0;
+  width: 6%;
+  height: 6%;
+  font-size: medium;
+  font-family:'Roboto';
+
+}

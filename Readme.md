@@ -7,9 +7,6 @@
 - The viewer loads a 3D model of the Apollo 11 Spaceship and allows the user to interact with it by zooming in and out using the buttons or
 their cursor. The model can also be rotated by dragging the cursor. 
 
-### Additional information about the code:
-
-- Despite being based on the theory proposed in the paper, the code differs from the proposed method in that it tries to optimise the proposed method to allow for a quicker processing. For instance, it uses a guided filter instead of the soft-matting in the paper to collect edge information.
 
 ### How To Run:
 __Steps:__
